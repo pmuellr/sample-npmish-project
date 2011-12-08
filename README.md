@@ -28,3 +28,16 @@ should be
     in a/c
     in b/c
 
+
+implementations
+===============
+
+browserify
+----------
+
+see: https://github.com/substack/node-browserify
+
+to test, run:
+
+    using/browserify/run.sh
+
